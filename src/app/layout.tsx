@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "ChatEasy - Connect. Communicate. Confidently.",
+  description: "Start chatting instantly without phone numbers or email verification. Simple, instant messaging without barriers.",
 };
 
 export default function RootLayout({
